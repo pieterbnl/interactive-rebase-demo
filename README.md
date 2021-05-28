@@ -1,6 +1,6 @@
 # interactive-rebase-demo
 
-Let's take this absurd commit history and use interactive rebase to clean things up!  
+Using interactive rebase to clean things up!  
 
 The initial commit log:
 
